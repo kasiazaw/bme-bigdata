@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 # bme-bigdata e
+
 Biomedical engineering - Big Data analytics platforms
 
 ## Setting up a data science environment
