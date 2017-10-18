@@ -1,4 +1,4 @@
-# bme-bigdata te
+# bme-bigdata t
 Biomedical engineering - Big Data analytics platforms
 
 ## Setting up a data science environment
